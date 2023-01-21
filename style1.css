@@ -1,0 +1,15 @@
+.calculator{
+    width: 200px;
+    height: 300px;
+    margin: 0 auto;
+    background-color: whitesmoke;
+    padding: 20px;
+}
+
+.numbers button, .operations button {
+    width: 50px;
+    height: 60px;
+    margin: 10px;
+    font-size: 20px;
+
+}
