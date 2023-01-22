@@ -1,0 +1,27 @@
+.MODAL{
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10px;
+
+}
+.TOPPER{
+    color: blue;
+    left: 50;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 10px;
+}
+.log{
+    display: flex;
+    margin: 20px;
+}
+
+.h1{
+    color: green;
+    left: 30;
+    
+}
+.Turbo{
+    display: flex;
+    
+
+}
